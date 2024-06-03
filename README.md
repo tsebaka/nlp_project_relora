@@ -52,5 +52,5 @@ def quadratic_weighted_kappa(y_pred, y_true):
 
 ![Метрика](download.png)
 
-![Метрика](train.png)
+![Метрика](train.jpg)
 
